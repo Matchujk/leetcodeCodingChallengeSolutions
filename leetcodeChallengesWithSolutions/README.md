@@ -1,2 +1,2 @@
-# codingChallengeSolutions
-Collection of LeetCode challenge solutions.
+# leetcodeChallengesWithSolutions
+Collection of Leetcode challenge solutions.
